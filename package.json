@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc --project ./",
-    "serve": "node dist/server.js",
-    "dev": "ts-node src/server.ts"
+    "serve": "node dist/index.js",
+    "dev": "ts-node index.ts"
   },
   "keywords": [],
   "author": "",
