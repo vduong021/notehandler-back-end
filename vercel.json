@@ -3,6 +3,5 @@
     { 
       "source": "/api/(.*)", 
       "destination": "/api" 
-    }
-  ]
+    }]
 }
